@@ -1,4 +1,4 @@
 ---
 layout: post
-title:  "前段学习"
+title:  "前端学习"
 ---
